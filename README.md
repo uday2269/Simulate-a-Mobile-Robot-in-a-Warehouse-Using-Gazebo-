@@ -94,7 +94,3 @@ Open `matlab/dijkstra_3D_simulation.m` and execute the script.
 **Uday Kiran**  
 Email: udayuday2269@gmail.com  
 LinkedIn: [uday-kiran-tirumalasetty-92b6512b1](https://www.linkedin.com/in/uday-kiran-tirumalasetty-92b6512b1/)
-
-## License
-
-This project is licensed under the MIT License.
